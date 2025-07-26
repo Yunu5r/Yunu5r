@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yunu5r
 - 👀 I’m interested in chemistry and coding
-- 🌱 I’m currently learning python and HTML
+- 🌱 I’m currently learning python and C
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me, github DM
 - 😄 Pronouns: haha He/Him
